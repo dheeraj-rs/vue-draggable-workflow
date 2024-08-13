@@ -1,4 +1,4 @@
-Here's a README.md file for your project "vue-draggable-workflow":
+Here's the updated README.md file with the changes you requested:
 
 ```markdown
 # vue-draggable-workflow
@@ -75,5 +75,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you have any questions or feedback, please open an issue in this repository.
 ```
-
-Would you like me to explain or elaborate on any part of this README?
