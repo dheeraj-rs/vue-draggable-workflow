@@ -1,15 +1,12 @@
-Here's the updated README.md file with the changes you requested:
-
-```markdown
 # vue-draggable-workflow
 
 A Vue.js project for creating draggable workflows using jsPlumb, Lodash, SortableJS, and more.
 
-![Vue Draggable Workflow Screenshot](/working.png)
+![Vue Draggable Workflow](/Workflow.png)
 
 ## Project Overview
 
-vue-draggable-workflow is a powerful and flexible tool for creating interactive, draggable workflow diagrams in Vue.js applications. It leverages several key libraries to provide a smooth and intuitive user experience.
+`vue-draggable-workflow` is a powerful and flexible tool for creating interactive, draggable workflow diagrams in Vue.js applications. It leverages several key libraries to provide a smooth and intuitive user experience.
 
 ## Features
 
@@ -32,34 +29,30 @@ This project relies on the following packages:
 ## Installation
 
 1. Clone the repository:
-```
 
-git clone https://github.com/your-username/vue-draggable-workflow.git
-
-```
+   ```sh
+   git clone https://github.com/your-username/vue-draggable-workflow.git
+   ```
 
 2. Navigate to the project directory:
-```
 
-cd vue-draggable-workflow
-
-```
+   ```sh
+   cd vue-draggable-workflow
+   ```
 
 3. Install dependencies:
-```
 
-npm install
-
-```
+   ```sh
+   npm install
+   ```
 
 ## Usage
 
 1. Start the development server:
-```
 
-npm run serve
-
-```
+   ```sh
+   npm run serve
+   ```
 
 2. Open your browser and visit `http://localhost:8080` (or the port specified in your console).
 
@@ -74,4 +67,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 If you have any questions or feedback, please open an issue in this repository.
-```
