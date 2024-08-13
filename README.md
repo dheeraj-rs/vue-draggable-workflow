@@ -5,7 +5,7 @@ Here's the updated README.md file with the changes you requested:
 
 A Vue.js project for creating draggable workflows using jsPlumb, Lodash, SortableJS, and more.
 
-![Vue Draggable Workflow Screenshot](src/assets/vue-draggable-workflow.png)
+![Vue Draggable Workflow Screenshot](/working.png)
 
 ## Project Overview
 
